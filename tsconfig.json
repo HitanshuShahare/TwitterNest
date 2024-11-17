@@ -5,14 +5,26 @@
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
+<<<<<<< HEAD
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "bundler",
+=======
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+>>>>>>> d712ff00facd529eabc24b475b5ebaef5f1a8d73
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+<<<<<<< HEAD
+=======
+    "baseUrl": ".",
+>>>>>>> d712ff00facd529eabc24b475b5ebaef5f1a8d73
     "paths": {
       "@/*": ["./*"]
     }
